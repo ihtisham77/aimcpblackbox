@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# C2 Server
+c2_server.db
+c2_server.db-journal
+*.log
+
+# Generated agents (optional - uncomment to ignore)
+# generated_agents/
+
+# Test results
+module_test_results.json
+result_*.json
+all_results_*.json
+
+# OS
+.DS_Store
+Thumbs.db
